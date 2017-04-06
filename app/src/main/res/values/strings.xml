@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">EkUmid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_Name">Name</string>
+    <string name="hint_Contact">Contact</string>
+    <string name="hint_Address">Address</string>
+    <string name="hint_Blood_Group">Blood Group</string>
+    <string name="hint_Age">Age</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_Confirm_Password">Confirm Password</string>
+    <string name="btn_submit">Sign Up</string>
+    <string name="btn_login">Log In</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="hint_rcno">R.C. Number</string>
+    <string name="hint_weight">Weight</string>
+    <string name="btn_submit1">Submit</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_injplace">Injury Place</string>
+    <string name="hint_vehicleno">Vehicle Number</string>
+    <string name="hint_vehicletype">Vehicle Type</string>
+
+
+    <string-array name="vehicle_type">
+        <item>Car/Jeep/Van</item>
+        <item>LCV</item>
+        <item>Bud/Truck</item>
+        <item>HCM</item>
+    </string-array>
+</resources>

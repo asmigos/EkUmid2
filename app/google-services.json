@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "467586724884",
+    "firebase_url": "https://ekumid-1fafe.firebaseio.com",
+    "project_id": "ekumid-1fafe",
+    "storage_bucket": "ekumid-1fafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467586724884:android:a53ad8d1a45cdb2f",
+        "android_client_info": {
+          "package_name": "com.example.hp.ekumid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467586724884-ia1771t0bl7d3j1veah7s05pgarispvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6_Y6T-MELKVVQpmcbyFf6aBSDJh8YoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
